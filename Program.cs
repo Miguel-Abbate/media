@@ -1,5 +1,4 @@
-﻿using System.Drawing;
-using System.Runtime.InteropServices;
+﻿
 
 Console.Clear();
 Console.WriteLine("Digite o 1° numero");
